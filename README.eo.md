@@ -9,13 +9,12 @@ package_repo: "https://github.com/alexmiranda/espanso-package-esperanto"
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/alexmiranda/espanso-package-esperanto/blob/master/README.md)
 [![eo](https://img.shields.io/badge/lang-eo-green.svg)](https://github.com/alexmiranda/espanso-package-esperanto/blob/master/README.eo.md)
 
-Tre simpla pakaĵo, kio faras la tajpadon de literoj de Esperanta alfabeto kun
-supersignoj pli oportuna kaj pli rapida. Ĝi uzas la
-[X-sistemon](https://eo.wikipedia.org/wiki/X-sistemo).
+Tre simpla pakaĵo por helpi tajpi en Esperanto simple kaj rapide per uzo de
+[X-sistemon](https://eo.wikipedia.org/wiki/X-sistemo)
 
 ## Instali esperanto-accents
 
-Por instali ĉi tie pakaĵo:
+Por instali ĉi tiun pakaĵon:
 
 ```
 espanso install esperanto-accents
